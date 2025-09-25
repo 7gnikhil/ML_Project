@@ -1,1 +1,1 @@
-## End-to-END MAnchine learning Project
+## End-to-END Manchine learning Project
